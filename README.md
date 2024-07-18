@@ -5,6 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislavstoyanov99/) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/stanislavstoyanov99)
 
+📫 Email: stanislav.stoyanov369@gmail.com
+
 ## ⚡GitHub Stats
 
 <a href="https://github.com/stanislavstoyanov99">
